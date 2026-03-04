@@ -19,7 +19,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Screenshots](#screenshots)
+- [Demo](#demo)
 - [Features](#features)
 - [Architecture](#architecture)
 - [Security Model](#security-model)
