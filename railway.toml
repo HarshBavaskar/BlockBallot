@@ -1,8 +1,0 @@
-[build]
-builder = "NIXPACKS"
-
-[deploy]
-startCommand = "java -Dserver.port=$PORT -Dserver.address=0.0.0.0 -jar target/secure-voting-app-1.0.0.jar"
-
-[[services]]
-internal_port = 8080
