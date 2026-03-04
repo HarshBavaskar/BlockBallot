@@ -50,12 +50,12 @@ The platform features a modern monochrome UI with glassmorphism effects, a real-
 
 ---
 
-## Screenshots
+## Demo
 
 <p align="center">
-  <img src="docs/images/vote-page.png" alt="Vote Page" width="700">
+  <img src="docs/images/Voting Demo.gif" alt="Vote Page" width="700">
   <br>
-  <em>Cast Your Vote — Modern monochrome UI with WebGL particle background</em>
+  <em>Cast Your Vote</em>
 </p>
 
 ### Pages
